@@ -33,6 +33,7 @@ Membuat file `lab4_box.html` dan menerapkan atribut `float: left` pada elemen di
 </style>
 ```
 Hasil Tampilan (Gambar 4.5):
+
 <img width="113" height="86" alt="Cuplikan layar 2026-10-18 080008" src="https://github.com/user-attachments/assets/9aaa671a-a6ba-490e-b7aa-2f86a39f2c07" />
 
 
@@ -49,6 +50,7 @@ Salinan Kode CSS Tambahan (lab4_box.html):
 }
 ```
 Hasil Tampilan (Gambar 4.6):
+
 <img width="957" height="93" alt="Cuplikan layar 2026-10-18 080156" src="https://github.com/user-attachments/assets/2c0659b9-88f5-42aa-9d6c-ca13bb5d3037" />
 
 3. Membuat Kerangka Layout Sederhana
@@ -78,6 +80,7 @@ Salinan Kode HTML Kerangka (home.html):
 </div>
 ```
 Hasil Tampilan (Gambar 4.9):
+
 <img width="151" height="82" alt="Cuplikan layar 2026-10-18 080807" src="https://github.com/user-attachments/assets/76024e43-a236-4711-b522-6eae9a8828fb" />
 
 4. Mengatur CSS Dasar dan Header
