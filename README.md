@@ -95,6 +95,7 @@ header { padding: 20px; }
 header h1 { margin: 20px 10px; color: #b5b5b5; }
 ```
 Hasil Tampilan (Gambar 4.10):
+
 <img width="186" height="86" alt="Cuplikan layar 2026-10-18 081422" src="https://github.com/user-attachments/assets/3216c41e-bb68-4615-b51b-ddf95974bb67" />
 
 5. Membuat Navigasi
